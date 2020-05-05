@@ -1,0 +1,5 @@
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\MyLibrary\bin\Debug\MyLibrary.dll
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\MyLibrary\bin\Debug\MyLibrary.pdb
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\MyLibrary\obj\Debug\MyLibrary.dll
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\MyLibrary\obj\Debug\MyLibrary.pdb
+D:\Learning\ProjectToGitHub\WFA2\LapTrinhCSDLVOIC-\Projects\QuanLyBanHang_17SE111\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
